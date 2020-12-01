@@ -8,3 +8,4 @@ Generate optimal show schedules for movie theaters by finding the combination of
 
 SKU: SCHOP-PS-ENT-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-uketyi3ep2vz4
